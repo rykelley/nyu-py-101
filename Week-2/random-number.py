@@ -21,7 +21,7 @@ while True:
         break
 if num_guess == num_random_gen:
     num_tries += 1
-    print(f'you got it in {num_tries}')
+    print(f"you guessed it in {num_tries}")
 
 input("\n\n Press the enter key to exit")
 exit()
