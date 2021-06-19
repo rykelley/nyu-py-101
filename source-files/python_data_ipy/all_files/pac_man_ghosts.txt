@@ -1,0 +1,4 @@
+Shadow,Blinky
+Speedy,Pinky
+Bashful,Inky
+Pokey,Clyde

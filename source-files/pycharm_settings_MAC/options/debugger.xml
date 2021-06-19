@@ -1,0 +1,8 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general>
+      <run-to-cursor-gesture>false</run-to-cursor-gesture>
+    </general>
+  </component>
+</application>

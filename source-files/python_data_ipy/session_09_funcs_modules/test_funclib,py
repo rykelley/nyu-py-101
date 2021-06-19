@@ -1,0 +1,33 @@
+import funclib
+
+x = funclib.get_input_as_int('5')
+print(x)                       # 5
+print(type(x))                 # <class 'int'>
+
+try:
+    funclib.get_input_as_int('what?')
+except ValueError:
+    print('get_input_as_int() correctly raises ValueError when passed a non-int')
+
+
+lines, words, chars = funclib.file_count('FF_tiny.txt')
+
+print(lines)           # 9
+print(type(lines))     # <class 'int'>
+
+print(words)           # 45
+print(type(words))     # <class 'int'>
+
+print(chars)           # 368
+print(type(chars))     # <class 'int'>
+
+try:
+    funclib.file_count('FF_tiny.txt', items='xxx')
+except ValueError:
+    print('file_count() correctly raises ValueError with invalid "items=" argument')
+
+
+ret = funclib.get_lookup_dict('pac_man_ghosts.csv')
+
+print(ret)     # {'Shadow': 'Blinky', 'Speedy': 'Pinky',
+               #  'Bashful': 'Inky', 'Pokey': 'Clyde'}

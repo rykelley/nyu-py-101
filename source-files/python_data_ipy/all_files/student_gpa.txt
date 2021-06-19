@@ -1,0 +1,8 @@
+id:fname:lname:gpa
+jk43:John:Kane:3.5
+axe99:Alfred:Everbooty:3.8
+jab44:Janine:Brillo:3.9
+ak9:Axel:Krumpet:3.3
+ap172:Anton:Perillo:2.9
+jb23:Jaundice:Boto:3.7
+jb29:Jessica:Best:3.7

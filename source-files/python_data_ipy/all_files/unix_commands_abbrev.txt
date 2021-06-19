@@ -1,0 +1,16 @@
+cp thisfile thatfile  # copy a file
+mv thisfile thatfile  # move or rename a file
+mkdir thisdir         # make a directory
+rmdir thisdir         # remove a directory
+rm thisfile           # remove a file
+
+
+cat filename.txt   # output to screent
+
+cd                   change directory
+cd ..                go to parent
+cd dirname           go to dirname
+cd ../..             go to parent of parent
+cd thisdir/thatdir   go to thisdir/thatdir  (relative)
+cd /Users/david/Desktop  (absolute path)
+

@@ -1,0 +1,52 @@
+City:High (F):Low (F):High (C):Low (C)
+Atlanta, Georgia:72:53:22:12
+Austin, Texas:80:59:27:15
+Baltimore, Maryland:65:45:18:7
+Birmingham, Alabama:74:53:23:12
+Boston, Massachusetts:59:44:15:7
+Buffalo, New York:56:40:14:5
+Charlotte, North Carolina:71:49:22:9
+Chicago, Illinois:59:41:15:5
+Cincinnati, Ohio:65:43:18:6
+Cleveland, Ohio:60:43:15:6
+Columbus, Ohio:63:44:17:7
+Dallas, Texas:77:57:25:14
+Denver, Colorado:64:36:18:2
+Detroit, Michigan:59:42:15:5
+Hartford, Connecticut:61:40:16:5
+Houston, Texas:80:60:27:16
+Indianapolis, Indiana:63:44:17:7
+Jacksonville, Florida:79:58:26:14
+Kansas City, Missouri:66:48:19:9
+Las Vegas, Nevada:80:59:27:15
+Los Angeles, California:75:56:24:13
+Louisville, Kentucky:68:49:20:9
+Memphis, Tennessee:73:54:23:12
+Miami, Florida:84:70:29:21
+Milwaukee, Wisconsin:56:40:13:5
+Minneapolis, Minnesota:55:37:13:3
+Nashville, Tennessee:70:49:21:9
+New Orleans, Louisiana:78:61:26:16
+New York, New York:62:48:17:9
+Oklahoma City, Oklahoma:72:51:22:10
+Orlando, Florida:83:63:28:17
+Philadelphia, Pennsylvania:65:47:18:8
+Phoenix, Arizona:87:63:31:17
+Pittsburgh, Pennsylvania:61:42:16:6
+Portland, Oregon:63:45:17:7
+Providence, Rhode Island:61:43:16:6
+Raleigh, North Carolina:72:50:22:10
+Richmond, Virginia:70:48:21:9
+Riverside, California:81:53:27:11
+Rochester, New York:57:39:14:4
+Sacramento, California:74:48:23:9
+Salt Lake City, Utah:64:42:18:5
+San Antonio, Texas:80:59:27:15
+San Diego, California:70:58:21:14
+San Francisco, California:64:51:18:10
+San Jose, California:71:50:22:10
+Seattle, Washington:61:46:16:8
+St. Louis, Missouri:66:48:19:9
+Tampa, Florida:82:65:28:18
+Virginia Beach, Virginia:68:52:20:11
+Washington, DC:67:50:19:10
