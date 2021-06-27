@@ -10,7 +10,7 @@ csv_line = 'California,31,39.51,3200\n'
 # use len() to determine the length of 'sentence'
 
 
-# strip csv-
+# strip csv_line
 
 
 # strip 'sentence' of the period, then split into a list of 5 words
